@@ -6,3 +6,4 @@ const userTable = pgTable("users", {
   email: varchar({ length: 100 }).notNull().unique(),
   age: integer().notNull(),
 });
+
