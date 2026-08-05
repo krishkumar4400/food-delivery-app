@@ -9,3 +9,8 @@ const loginController = asyncHandler(async(req,res) => {
 const registerController = asyncHandler(async(req,res) => {
     const {username, email, password, role} = req.body;
 });
+
+export {
+    loginController,
+    registerController
+};
