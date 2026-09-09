@@ -4,4 +4,3 @@ name: "food_del_app"
 services:
   postgres:
     image: postgres:17s
-    
