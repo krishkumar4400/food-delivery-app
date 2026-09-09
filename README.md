@@ -8,7 +8,7 @@ The goal of this project is not just to make a clone, but to learn and implement
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 ## 👤 Customer Features
 
@@ -54,7 +54,7 @@ The goal of this project is not just to make a clone, but to learn and implement
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ## Frontend
 
@@ -84,16 +84,15 @@ The goal of this project is not just to make a clone, but to learn and implement
 
 ## Payments
 
-* Razorpay / Stripe
+* Stripe
 
 ## Cloud & Deployment
 
-* Cloudinary
-* Render / AWS / Vercel
+* AWS
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 food-delivery-platform/
@@ -111,7 +110,7 @@ food-delivery-platform/
 
 ---
 
-# 🔐 Roles in System
+## 🔐 Roles in System
 
 The platform contains multiple user roles:
 
@@ -124,7 +123,7 @@ Each role has separate permissions and dashboards using Role-Based Access Contro
 
 ---
 
-# ⚙️ Main Functionalities Implemented
+## ⚙️ Main Functionalities Implemented
 
 * Authentication & Authorization
 * REST APIs
@@ -137,7 +136,7 @@ Each role has separate permissions and dashboards using Role-Based Access Contro
 
 ---
 
-# 📦 Order Flow
+## 📦 Order Flow
 
 ```text
 Customer places order
@@ -153,7 +152,7 @@ Delivered to customer
 
 ---
 
-# 🧠 What I Learned From This Project
+## 🧠 What I Learned From This Project
 
 While building this project, I learned:
 
@@ -170,7 +169,7 @@ This project helped me understand how real-world platforms like Zomato actually 
 
 ---
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 * AI-based food recommendations
 * Smart delivery assignment
@@ -182,10 +181,10 @@ This project helped me understand how real-world platforms like Zomato actually 
 
 ---
 
-# 🧪 Installation
+## 🧪 Installation
 
 ```bash
-git clone <repo-link>
+git clone https://github.com/krishkumar4400/food-delivery-app.git
 
 cd project
 
@@ -196,13 +195,13 @@ npm run dev
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 (Add screenshots here later)
 
 ---
 
-# 🙌 Final Note
+## 🙌 Final Note
 
 This project was built as a learning + engineering project to explore real-world full-stack system design and scalable application development.
 
